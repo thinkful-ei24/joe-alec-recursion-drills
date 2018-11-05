@@ -1,3 +1,4 @@
+//#1- SHEEP COUNTER
 function sheepCount(numOfSheep) {
   if(numOfSheep === 0) {
     return;
@@ -7,3 +8,10 @@ function sheepCount(numOfSheep) {
 }
 
 sheepCount(5);
+
+//#2 ARRAY NUMBER DOUBLER
+function arrayDoubler(list) {
+
+}
+
+console.log(arrayDoubler([1, 2, 3, 4, 5]));
